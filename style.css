@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: #f5f5f5;
+    background: #d12c2c;
     color: #333;
 }
 
@@ -27,7 +27,7 @@ section {
 }
 
 h2 {
-    color: #4a90e2;
+    color: #e948db;
     border-left: 5px solid #4a90e2;
     padding-left: 10px;
 }
